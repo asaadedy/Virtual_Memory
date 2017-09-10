@@ -7,6 +7,7 @@
 #include "sim.h"
 #include "pagetable.h"
 
+
 // Define global variables declared in sim.h
 unsigned memsize = 0;
 int debug = 0;

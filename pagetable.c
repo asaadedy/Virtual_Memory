@@ -4,6 +4,7 @@
 #include "sim.h"
 #include "pagetable.h"
 
+
 // The top-level page table (also known as the 'page directory')
 pgdir_entry_t pgdir[PTRS_PER_PGDIR]; 
 

@@ -7,7 +7,6 @@
 #include "pagetable.h"
 
 
-
 extern struct frame *coremap;
 
 /* Page to evict is chosen using the rand algorithm.

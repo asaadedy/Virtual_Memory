@@ -1,4 +1,3 @@
-
 sim :  sim.o pagetable.o swap.o rand.o clock.o lru.o fifo.o opt.o
 	gcc -Wall -g -o sim $^
 
