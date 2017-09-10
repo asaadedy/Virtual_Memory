@@ -6,7 +6,6 @@
 #include <sys/queue.h>
 #include "pagetable.h"
 
-
 extern int memsize;
 
 extern int debug;

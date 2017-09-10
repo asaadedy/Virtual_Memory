@@ -5,6 +5,7 @@
 #define MAXLINE 256
 #define SIMPAGESIZE 16  /* Simulated physical memory page frame size */
 
+
 extern unsigned memsize;
 extern int debug;
 

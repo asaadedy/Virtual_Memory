@@ -7,6 +7,7 @@
 
 #define TRACE_64
 
+
 #define PAGE_SHIFT      12     // number of bits 2^(PAGE_SHIFT) == PAGE_SIZE
 #define PAGE_SIZE       4096 // Size of pagetable pages
 #define PAGE_MASK       (~(PAGE_SIZE-1))

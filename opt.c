@@ -8,7 +8,6 @@
 #include "pagetable.h"
 #include "sim.h"
 
-
 extern int debug;
 
 extern struct frame *coremap;
